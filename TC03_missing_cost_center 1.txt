@@ -1,0 +1,38 @@
+From: Jane Smith <jane.smith@acmecorp.com>
+To: finance-je@acmecorp.com
+Subject: JE - July Accruals - Marketing Dept
+Date: Thu, 31 Jul 2025 17:05:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi team,
+
+Please post the following accrual entry for July 2025:
+
+Journal Type : Accrual_Details
+Reference    : TC03-JUL-2025-003
+Period       : 07
+Company Code : 1000
+Currency     : USD
+
+| Line | Company Code | Cost Center | GL Account | Description                | Annual Amount | Dr/Cr |
+|------|--------------|-------------|------------|----------------------------|---------------|-------|
+|  1   | 1000         | 3100        | 6100100    | Marketing Expense - Events | 120000.00     | DR    |
+|  2   | 1000         | 5500        | 2100010    | Accrued Liabilities        | 120000.00     | CR    |
+|  3   | 1000         |             | 6100200    | Digital Marketing Expense  | 84000.00      | DR    |
+|  4   | 1000         | 5500        | 2100010    | Accrued Liabilities        | 84000.00      | CR    |
+|  5   | 1000         |             | 6100300    | Advertising Expense        | 60000.00      | DR    |
+|  6   | 1000         | 5500        | 2100010    | Accrued Liabilities        | 60000.00      | CR    |
+
+---
+
+Points to consider:
+
+Only company code 1000 is allowed for Accrual Journals.
+All Accrual Journals must use document type SA unless overridden.
+Calculate the monthly journal amount by dividing the total annual invoice amount by 12.
+If any line is missing a cost center on an expense GL account (6100 series), reject the entire entry.
+Total debits must equal total credits for each reference - reject if imbalanced.
+
+Thanks,
+Jane
