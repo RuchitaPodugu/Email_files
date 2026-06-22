@@ -1,0 +1,4 @@
+sub_system_entry_id,document_rule_id,query_details,exception_type,status,approval_required,timestamp
+70db903f-abce-46b4-b10b-795774fcc23d_971622892,Accrual_Details - R002,"Validation failed [Accrual_Details - R002]: je_preparation_id=971622892, company_code=2000, gl_account=3000100, cost_center=3300",VALIDATION_FAILED,Open,No,2026-06-22T05:45:35.277Z
+70db903f-abce-46b4-b10b-795774fcc23d_774863156,Accrual_Details - R002,"Validation failed [Accrual_Details - R002]: je_preparation_id=774863156, company_code=2000, gl_account=2100010, cost_center=5500",VALIDATION_FAILED,Open,No,2026-06-22T05:45:35.277Z
+70db903f-abce-46b4-b10b-795774fcc23d_948961867,Accrual_Details - R004,"Validation failed [Accrual_Details - R004]: je_preparation_id=948961867, company_code=1000, gl_account=1000200, cost_center=3400",VALIDATION_FAILED,Open,No,2026-06-22T05:45:52.975Z

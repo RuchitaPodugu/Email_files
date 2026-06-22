@@ -1,0 +1,6 @@
+je_posting_id,je_preparation_id,session_id,document_name,company_code,document_type,posting_date,document_date,currency,gl_account,posting_amount,debit_credit_indicator,cost_center,gl_account_description,source_type,posting_status,calculation_rule_applied,posted_timestamp
+196033039,2038736048,70db903f-abce-46b4-b10b-795774fcc23d,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,6100100,10000.00,DR,3100,Marketing Expense - Events,Email,POSTED,Accrual_Details - R007,2026-06-22T05:46:16.434Z
+485515462,1858609780,70db903f-abce-46b4-b10b-795774fcc23d,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,2100010,10000.00,CR,5500,Accrued Liabilities,Email,POSTED,Accrual_Details - R007,2026-06-22T05:46:16.434Z
+1352422039,1111441930,70db903f-abce-46b4-b10b-795774fcc23d,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,6100200,7000.00,DR,3200,Digital Marketing Expense,Email,POSTED,Accrual_Details - R007,2026-06-22T05:46:16.434Z
+285069048,711443393,70db903f-abce-46b4-b10b-795774fcc23d,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,2100010,7000.00,CR,5500,Accrued Liabilities,Email,POSTED,Accrual_Details - R007,2026-06-22T05:46:16.434Z
+430949512,1088637303,70db903f-abce-46b4-b10b-795774fcc23d,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,2100010,4000.00,CR,5500,Accrued Liabilities,Email,POSTED,Accrual_Details - R007,2026-06-22T05:46:16.434Z
