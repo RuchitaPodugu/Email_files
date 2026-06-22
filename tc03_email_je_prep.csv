@@ -1,0 +1,7 @@
+je_preparation_id,document_name,journal_type,company_code,document_type,posting_date,document_date,currency,gl_account,posting_amount,debit_credit_indicator,cost_center,gl_account_description,validation_status,source_type,load_timestamp,update_timestamp
+1607062584,Accrual_Details,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,6100100,120000.00,DR,3100,Marketing Expense - Events,VALIDATED,Email,2026-06-22T05:25:59.778Z,2026-06-22T05:28:26.089Z
+1807322924,Accrual_Details,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,2100010,120000.00,CR,5500,Accrued Liabilities,VALIDATED,Email,2026-06-22T05:25:59.778Z,2026-06-22T05:28:26.089Z
+1614322086,Accrual_Details,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,2100010,84000.00,CR,5500,Accrued Liabilities,VALIDATED,Email,2026-06-22T05:25:59.778Z,2026-06-22T05:28:26.089Z
+2057544370,Accrual_Details,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,2100010,60000.00,CR,5500,Accrued Liabilities,VALIDATED,Email,2026-06-22T05:25:59.778Z,2026-06-22T05:28:26.089Z
+41250653,Accrual_Details,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,6100200,84000.00,DR,null,Digital Marketing Expense,FAILED,Email,2026-06-22T05:25:59.778Z,2026-06-22T05:28:15.608Z
+1617046697,Accrual_Details,Accrual_Details,1000,SA,2025-07-31,2025-07-31,USD,6100300,60000.00,DR,null,Advertising Expense,FAILED,Email,2026-06-22T05:25:59.778Z,2026-06-22T05:28:15.608Z
