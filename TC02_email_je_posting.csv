@@ -1,0 +1,1 @@
+je_posting_id,je_preparation_id,session_id,document_name,company_code,document_type,posting_date,document_date,currency,gl_account,posting_amount,debit_credit_indicator,cost_center,gl_account_description,source_type,posting_status,calculation_rule_applied,posted_timestamp
